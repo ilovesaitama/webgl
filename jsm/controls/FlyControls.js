@@ -2,7 +2,7 @@ import {
 	EventDispatcher,
 	Quaternion,
 	Vector3
-} from '../../build/three.module.js';
+} from 'https://nomorefilter.github.io/webgl/build/three.module.js';
 
 const _changeEvent = { type: 'change' };
 
